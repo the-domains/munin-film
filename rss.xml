@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Munin Film]]></title>
         <description><![CDATA[Munin Film]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/munin-film/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 20:18:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Jan 2016 20:44:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/munin-film/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab65b5a7-a4b7-4af8-8bcb-c00cceac0e27.png">]]></description>
+            <link>https://thegrid.ai/munin-film/0b748742-4f2e-4c85-9462-387b48844a8e/index.html</link>
+            <guid isPermaLink="false">0b748742-4f2e-4c85-9462-387b48844a8e</guid>
+            <pubDate>Wed, 20 Jan 2016 20:44:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed1d747b-7769-4051-87fd-c3a27f2baaf6.png">]]></description>
-            <link>undefinedd70fd745-a223-4a9e-9e75-146b6f2303d7/index.html</link>
+            <link>https://thegrid.ai/munin-film/d70fd745-a223-4a9e-9e75-146b6f2303d7/index.html</link>
             <guid isPermaLink="false">d70fd745-a223-4a9e-9e75-146b6f2303d7</guid>
             <pubDate>Wed, 20 Jan 2016 20:17:00 GMT</pubDate>
         </item>
