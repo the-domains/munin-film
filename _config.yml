@@ -1,6 +1,6 @@
 name: Munin Film
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.73914
 typography_spectrum: 0.39898
 title: 'Magnus & Kjella'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#5c5c61'
     - '#a38994'
     - '#fefa00'
-  brandStrength: 0.24197665718384087
-  lightness: 0.7350958355236799
-  saturation: 0.4065656487364322
-  rhythmicContrast: 0.18768334342166781
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
