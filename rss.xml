@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Munin Film]]></title>
-        <description><![CDATA[Munin Film]]></description>
+        <title><![CDATA[Magnus & Kjella]]></title>
+        <description><![CDATA[Magnus & Kjella]]></description>
         <link>https://thegrid.ai/munin-film/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 20:44:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2016 21:21:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/munin-film/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a43bf44b-b80c-4594-816c-c6204a14cc6c.JPG">]]></description>
+            <link>https://thegrid.ai/munin-film/26e20862-71bc-4603-9c1f-6bf2048aaa69/index.html</link>
+            <guid isPermaLink="false">26e20862-71bc-4603-9c1f-6bf2048aaa69</guid>
+            <pubDate>Wed, 20 Jan 2016 21:21:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab65b5a7-a4b7-4af8-8bcb-c00cceac0e27.png">]]></description>
